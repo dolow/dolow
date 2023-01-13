@@ -1,6 +1,29 @@
-### Profile
+### Hi, I'm Smith !
 
-Smith is an curious engineer trying work with no specific field.
+I'm working as fullstack engineer and have been handled kinds of techs so it is familiar for me adopting to new tech.
+
+Feel free to ping me on [Twitter](https://twitter.com/do_low).
+
+
+### More About Me
+
+#### My Recent Works:
+
+- Build and maintain Ethereum private network and developing Dapps for it
+- Designing and implementing cipher sequence to protect customers' private data
+- Maintain geospatial database (a.k.a postgis)
+- HTML5 game foundation library development
+
+All of them are about businesses in single workplace.
+It means I always contribute for the business by tech, and obtaining next tech challenge.
+
+
+#### Favorite Techs
+
+Go, Zig, C/C++, JavaScript/TypeScript/Node.js...
+
+Of course others are very welcome !!
+
 
 ### Stats
 
